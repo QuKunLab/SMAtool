@@ -1,0 +1,12 @@
+ALPHABET "secondary structure"
+
+# Core symbols
+s "stem pair" CC0000
+m "multiloop" 008000
+h "hairpin" 0000CC
+i "interior loop" FF00FF
+f "f symbol" 33E6CC
+t "" FFB300
+
+
+# Ambiguous symbols
